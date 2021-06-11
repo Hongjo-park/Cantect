@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\bin\Debug\netcoreapp3.1\Migration.deps.json
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\bin\Debug\netcoreapp3.1\Migration.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\bin\Debug\netcoreapp3.1\Migration.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfo.cs
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\obj\Debug\netcoreapp3.1\Migration.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\obj\Debug\netcoreapp3.1\Migration.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\Migration\obj\Debug\netcoreapp3.1\Migration.csprojAssemblyReference.cache

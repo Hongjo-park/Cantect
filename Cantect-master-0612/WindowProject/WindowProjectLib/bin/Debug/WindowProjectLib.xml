@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WindowProjectLib</name>
+    </assembly>
+    <members>
+        <member name="T:WindowProjectLib.RecvRCInfoEventArgs">
+            <summary>
+            RecvRCInfoEventArgs
+            </summary>
+        </member>
+        <member name="P:WindowProjectLib.RecvRCInfoEventArgs.IPEndPoint">
+            <summary>
+            원격 제어 요청 수신 이벤트 인자 클래스
+            </summary>
+            <summary>
+            IP 단말 정보 - 가져오기
+            </summary>
+        </member>
+        <member name="P:WindowProjectLib.RecvRCInfoEventArgs.IPAddressStr">
+            <summary>
+            IP 주소 문자열 - 가져오기
+            </summary>
+        </member>
+        <member name="P:WindowProjectLib.RecvRCInfoEventArgs.Port">
+            <summary>
+            포트 - 가져오기
+            </summary>
+        </member>
+        <member name="M:WindowProjectLib.RecvRCInfoEventArgs.#ctor(System.Net.EndPoint)">
+            <summary>
+            생성자
+            </summary>
+            <param name="RemoteEndPoint">상대측 단말 정보</param>
+        </member>
+        <member name="T:WindowProjectLib.RecvRCInfoEventHandler">
+            <summary>
+            delegate for event
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>

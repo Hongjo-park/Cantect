@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Cantect-master\WindowProject\ClassLibrary1\obj\Debug\KMEventSendRecvLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\ClassLibrary1\obj\Debug\KMEventSendRecvLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\bin\Release\Imgclient.exe.config
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\bin\Release\Imgclient.exe
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\bin\Release\Imgclient.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\bin\Release\ImgSendRecLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\bin\Release\ImgSendRecLib.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\obj\Release\Imgclient.ImgClient.resources
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\obj\Release\Imgclient.Properties.Resources.resources
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\obj\Release\Imgclient.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\obj\Release\Imgclient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\obj\Release\Imgclient.csproj.CopyComplete
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\obj\Release\Imgclient.exe
+C:\Users\User\source\repos\Cantect-master\WindowProject\Imgclient\obj\Release\Imgclient.pdb

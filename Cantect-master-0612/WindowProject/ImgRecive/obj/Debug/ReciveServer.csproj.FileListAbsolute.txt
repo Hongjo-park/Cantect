@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ImgRecive.exe.config
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ImgRecive.xml
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ImgRecive.exe
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ImgRecive.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ImgSendRecLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ImgSendRecLib.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\bin\Debug\ImgSendRecLib.xml
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ImgRecive.Server.resources
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ImgRecive.Properties.Resources.resources
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ReciveServer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ReciveServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ReciveServer.csproj.CopyComplete
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ImgRecive.exe
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ImgRecive.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgRecive\obj\Debug\ReciveServer.csprojAssemblyReference.cache

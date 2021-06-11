@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowProjectLib\bin\Debug\WindowProjectLib.xml
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowProjectLib\bin\Debug\WindowProjectLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowProjectLib\bin\Debug\WindowProjectLib.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowProjectLib\obj\Debug\WindowProjectLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowProjectLib\obj\Debug\WindowProjectLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowProjectLib\obj\Debug\WindowProjectLib.pdb

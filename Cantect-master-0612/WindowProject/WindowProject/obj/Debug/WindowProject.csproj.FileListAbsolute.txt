@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\obj\Debug\WindowProject.Mainform.resources
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\obj\Debug\WindowProject.RemoteClientForm.resources
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\obj\Debug\WindowProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\obj\Debug\WindowProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\source\repos\Cantect-master\WindowProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

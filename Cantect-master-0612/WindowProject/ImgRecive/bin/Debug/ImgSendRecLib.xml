@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImgSendRecLib</name>
+    </assembly>
+    <members>
+        <member name="T:WindowProject.ImageClient">
+            <summary>
+            image Client class
+            </summary>
+        </member>
+        <member name="M:WindowProject.ImageClient.Connect(System.String,System.Int32)">
+            <summary>
+            Connect method
+            </summary>
+            <param name="ip"></param>
+            <param name="port"></param>
+        </member>
+        <member name="M:WindowProject.ImageClient.SendImage(System.Drawing.Image)">
+            <summary>
+            send image method
+            </summary>
+            <param name="img"></param>
+            <returns></returns>
+        </member>
+        <member name="T:WindowProject.ImageClient.SendImageDele">
+            <summary>
+            delegate
+            </summary>
+            <param name="img"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WindowProject.ImageClient.SendImageAsync(System.Drawing.Image,System.AsyncCallback)">
+            <summary>
+            비동기 send image
+            </summary>
+            <param name="img"></param>
+            <param name="callback"></param>
+        </member>
+        <member name="M:WindowProject.ImageClient.Close">
+            <summary>
+            socket close
+            </summary>
+        </member>
+        <member name="T:WindowProject.ImageServer">
+            <summary>
+            이미지 수신 서버
+            </summary>
+        </member>
+        <member name="E:WindowProject.ImageServer.RecvedImage">
+            <summary>
+            handler
+            </summary>
+        </member>
+        <member name="M:WindowProject.ImageServer.#ctor(System.String,System.Int32)">
+            <summary>
+            생성자
+            </summary>
+            <param name="ip">IP주소</param>
+            <param name="port">포트</param>
+        </member>
+        <member name="M:WindowProject.ImageServer.Close">
+            <summary>
+            이미지 서버 닫음
+            </summary>
+        </member>
+        <member name="M:WindowProject.ImageServer.Recevice(System.Net.Sockets.Socket)">
+            <summary>
+            이미지를 수신
+            </summary>
+            <param name="dosock">소켓</param>
+        </member>
+        <member name="M:WindowProject.ImageServer.ConvertBitmap(System.Byte[])">
+            <summary>
+            수신된 버퍼를 비트맵 이미지로 변환
+            </summary>
+            <param name="data">버퍼</param>
+            <returns>비트맵 이미지</returns>
+        </member>
+        <member name="T:WindowProject.RecvImageEventHandler">
+            <summary>
+            delegate
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:WindowProject.RecvImageEventArgs">
+            <summary>
+            이미지 수신 이벤트
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.IPEndPoint">
+            <summary>
+            IP단말(IP주소 + port) 가져오는 함수
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.IPAddress">
+            <summary>
+            IP주소 가져오는 함수
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.IPAddressStr">
+            <summary>
+            IP주소를 문자열로 가져오는 함수
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.Port">
+            <summary>
+            Port번호를 가져오는 함수
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.Image">
+            <summary>
+            이미지를 가져옴
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.Size">
+            <summary>
+            size를 가져옴
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.Width">
+            <summary>
+            이미지 폭을 가져옴
+            </summary>
+        </member>
+        <member name="P:WindowProject.RecvImageEventArgs.Height">
+            <summary>
+            이미지 높이를 가져옴
+            </summary>
+        </member>
+        <member name="M:WindowProject.RecvImageEventArgs.#ctor(System.Net.IPEndPoint,System.Drawing.Image)">
+            <summary>
+            
+            </summary>
+            <param name="ep"></param>
+            <param name="image"></param>
+        </member>
+        <member name="M:WindowProject.RecvImageEventArgs.ToString">
+            <summary>
+            </summary>
+            <returns>IP주소와 폭, 높이를 문자열로 반환</returns>
+        </member>
+    </members>
+</doc>

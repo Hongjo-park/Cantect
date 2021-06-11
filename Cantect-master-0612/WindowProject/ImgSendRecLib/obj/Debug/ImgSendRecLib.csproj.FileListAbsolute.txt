@@ -1,0 +1,13 @@
+C:\Users\JongWoo\Source\Repos\Cantect\WindowProject\ImgSendRecLib\obj\Debug\ImgSendRecLib.csprojAssemblyReference.cache
+C:\Users\JongWoo\Source\Repos\Cantect\WindowProject\ImgSendRecLib\obj\Debug\ImgSendRecLib.csproj.CoreCompileInputs.cache
+C:\Users\JongWoo\Source\Repos\Cantect\WindowProject\ImgSendRecLib\bin\Debug\ImgSendRecLib.dll
+C:\Users\JongWoo\Source\Repos\Cantect\WindowProject\ImgSendRecLib\bin\Debug\ImgSendRecLib.pdb
+C:\Users\JongWoo\Source\Repos\Cantect\WindowProject\ImgSendRecLib\obj\Debug\ImgSendRecLib.dll
+C:\Users\JongWoo\Source\Repos\Cantect\WindowProject\ImgSendRecLib\obj\Debug\ImgSendRecLib.pdb
+C:\Users\JongWoo\Source\Repos\Cantect\WindowProject\ImgSendRecLib\bin\Debug\ImgSendRecLib.xml
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgSendRecLib\bin\Debug\ImgSendRecLib.xml
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgSendRecLib\bin\Debug\ImgSendRecLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgSendRecLib\bin\Debug\ImgSendRecLib.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgSendRecLib\obj\Debug\ImgSendRecLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgSendRecLib\obj\Debug\ImgSendRecLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\ImgSendRecLib\obj\Debug\ImgSendRecLib.pdb

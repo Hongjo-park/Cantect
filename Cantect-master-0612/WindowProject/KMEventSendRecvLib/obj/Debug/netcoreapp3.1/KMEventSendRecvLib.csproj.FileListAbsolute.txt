@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\bin\Debug\netcoreapp3.1\KMEventSendRecvLib.deps.json
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\bin\Debug\netcoreapp3.1\KMEventSendRecvLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\bin\Debug\netcoreapp3.1\KMEventSendRecvLib.pdb
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\obj\Debug\netcoreapp3.1\KMEventSendRecvLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\obj\Debug\netcoreapp3.1\KMEventSendRecvLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\obj\Debug\netcoreapp3.1\KMEventSendRecvLib.AssemblyInfo.cs
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\obj\Debug\netcoreapp3.1\KMEventSendRecvLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\obj\Debug\netcoreapp3.1\KMEventSendRecvLib.dll
+C:\Users\User\source\repos\Cantect-master\WindowProject\KMEventSendRecvLib\obj\Debug\netcoreapp3.1\KMEventSendRecvLib.pdb
